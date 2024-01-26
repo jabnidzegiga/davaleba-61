@@ -1,0 +1,22 @@
+@font-face {
+    font-family:"chemi fonti";
+    src: url("font/OldStandardTT-Regular.ttf");
+}
+p{
+    font-family: "chemi fonti";
+    color: #000;
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: "mesame fonti";
+    src: url("font/OldStandardTT-Bold.ttf");
+}
+.p2{
+    font-family: "mesame fonti";
+    width: 1260px;
+    height: 46px;
+   font-size: 16px;
+   font-weight: 400;
+   
+}
